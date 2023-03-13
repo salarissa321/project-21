@@ -1,6 +1,6 @@
 
 body{
-
+  font-family: 'Open Sans', sans-serif;
 }
             
 
@@ -22,7 +22,7 @@ body{
 
 .navbar-brand{
 margin-left:  20px; 
-font-size: 30px;
+font-size: 40px;
 font-weight: 400;
 }
 
@@ -34,4 +34,92 @@ font-weight: 400;
       font-family: 'Open Sans', sans-serif;
       color: #222222;
  
+}
+
+.myschrift{
+  
+font-family: 'Raleway', sans-serif;
+font-size: 48px;
+font-weight: 400;
+line-height: 60px;
+
+text-transform: capitalize;
+
+}
+
+.mypara{
+font-family: 'Open Sans', sans-serif;
+font-size: 25px;
+font-weight: 400;
+line-height: 32px;
+margin-bottom: 29px;
+}
+
+.mybtn1{
+ 
+  margin-right: 15px;
+}
+
+.mybtn2{
+  
+}
+
+.myimg{
+  margin-left: 40px;
+}
+
+.myschreiben{
+  font-family: 'Raleway', sans-serif;
+  color: #222222;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+
+.myparagraf{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0;
+  padding: 0 30px;
+  color:#999999;
+}
+
+.mycard{
+margin-left: 100px;
+}
+
+.myicon{
+margin-left: 130px;
+color: #2196f3;
+}
+
+.card-title{
+  font-family: 'Raleway', sans-serif;
+  color: #222222;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 19px;
+  text-transform: capitalize;
+}
+
+.card-text{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #999999;
+}
+
+.mycard2{
+
+}
+
+.mycard3{
+  
 }
