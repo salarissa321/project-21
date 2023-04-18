@@ -162,12 +162,13 @@ margin: 0 0 10px;
 .mynumber{
 color: #2196F3;
 padding-top: -20px;
+margin-left: 60px;
 
 
 }
 
 .mydiv1{
- 
+ margin-left: 60px;
 }
 
 .myheader{
@@ -188,3 +189,86 @@ padding-top: -20px;
   margin-bottom: 0;
   color: #999999;
 }
+
+.myschlagzeile{
+  font-family: 'Raleway', sans-serif;
+  color: #222222;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  margin: 0 0 28px;
+}
+
+.mysentence{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 0;
+  padding: 0 30px;
+  color: #999999;
+  margin: 0 0 10px;
+}
+
+.card{
+  border-radius: 6px;
+background-color: #f8f8f8;
+padding: 20px;
+box-sizing: border-box;
+margin-left: 40px;
+}
+
+.card:hover{
+  background-color: #2196F3;
+}
+
+.card-text{
+  color: #aaaaaa;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0;
+
+}
+
+.mysmith{
+  color: #222222;
+font-size: 17px;
+font-weight: 700;
+line-height: 18px;
+margin-bottom: 0;
+text-transform: capitalize;
+margin: 0 0 28px;
+font-family: 'Raleway', sans-serif;
+margin-left: 70px;
+padding-top: 20px;
+}
+
+.mystar{
+
+}
+
+.mystern{
+  color: #f3be3c;
+font-size: 12px;
+line-height: 18px;
+margin: 0 2px;
+margin: 10px;
+}
+
+.mynicole{
+  color: #222222;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 18px;
+  margin-bottom: 0;
+  text-transform: capitalize;
+  margin: 0 0 28px;
+  font-family: 'Raleway', sans-serif;
+  margin-left: 60px;
+  padding-top: 20px;
+}
+
+
+
